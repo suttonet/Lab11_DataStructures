@@ -7,7 +7,7 @@ int main()
 
     std::cout << "Type: " << myWaterHighAttackPokemon->GetType() << std::endl;
     std::cout << "Role: " << myWaterHighAttackPokemon->GetRole() << std::endl;
-    std::cout << "HP: " << myWaterHighAttackPokemon->GetHP() << std::endl;
+    std::cout << "HP:   " << myWaterHighAttackPokemon->GetHP() << std::endl;
     std::cout << "Attack: " << myWaterHighAttackPokemon->GetAttack() << std::endl;
     std::cout << "Defense: " << myWaterHighAttackPokemon->GetDefense() << std::endl;
     std::cout << "WaterMod: " << myWaterHighAttackPokemon->WaterMod() << std::endl;
